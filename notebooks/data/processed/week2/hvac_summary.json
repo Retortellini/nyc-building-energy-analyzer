@@ -1,0 +1,9 @@
+{
+  "total_buildings": 56492,
+  "avg_site_eui": 8421.214407349713,
+  "median_site_eui": 72.3,
+  "high_sensitivity_count": 234,
+  "high_sensitivity_percentage": 0.4142179423635205,
+  "upgrade_candidates": 47013,
+  "total_recommendations": 2
+}

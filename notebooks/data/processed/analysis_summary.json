@@ -1,0 +1,9 @@
+{
+  "total_buildings": 59579,
+  "median_eui": 72.5,
+  "mean_eui": 7991.035871699759,
+  "main_eui_column": "Site EUI (kBtu/ft\u00b2)",
+  "underperformers_count": 29780,
+  "total_potential_savings": 5701978195.853999,
+  "area_column": "Property GFA - Self-Reported (ft\u00b2)"
+}
