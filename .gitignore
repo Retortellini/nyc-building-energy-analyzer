@@ -32,11 +32,11 @@ ENV/
 .ipynb_checkpoints
 
 # Data files (comment out if you want to track small datasets)
-data/raw/*.csv
-data/raw/*.xlsx
-data/raw/*.json
-data/processed/*.csv
-data/processed/*.xlsx
+# data/raw/*.csv
+# data/raw/*.xlsx
+# data/raw/*.json
+# data/processed/*.csv
+# data/processed/*.xlsx
 
 # Output files
 outputs/figures/*.png
@@ -59,9 +59,9 @@ config.py
 secrets.json
 
 # Data files (too large for GitHub)
-*.csv
-data/processed/*.csv
-data/raw/*.csv
-notebooks/data/processed/*.csv
-*.xlsx
-*.zip
+# *.csv
+# data/processed/*.csv
+# data/raw/*.csv
+# notebooks/data/processed/*.csv
+# *.xlsx
+# *.zip
